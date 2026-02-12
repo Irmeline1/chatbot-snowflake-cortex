@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS DB_LAB.CHAT_APP.KB_FAQ (
+    question STRING,
+    answer STRING,
+    source STRING
+);
